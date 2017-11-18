@@ -9,7 +9,7 @@ mkdir BigData
 ### Step 4:
 #### Move file from Local to HDFS
 Go to Local terminal
-Give Permission
+#### Give Permission
 sudo -s
 #### Move text file from local to HDFS
 hdfs dfs -put root/bigdata/wordcountfile1.txt /user/BigData
